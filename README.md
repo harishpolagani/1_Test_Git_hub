@@ -1,2 +1,2 @@
 # 1_Test_Git_hub
-this is introduction to github
+this is a test project for introduction to github
